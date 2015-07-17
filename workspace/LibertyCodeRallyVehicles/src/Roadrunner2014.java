@@ -23,6 +23,8 @@ public class Roadrunner2014 extends DefaultCarAIAgent {
 
     public Roadrunner2014() {
     }
+    
+    public static String teste = "";
 
     @Override
     public void onRaceStart() {

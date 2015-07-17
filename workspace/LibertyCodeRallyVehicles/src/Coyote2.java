@@ -40,6 +40,7 @@ public class Coyote2 extends DefaultCarAIAgent {
 
 		// Replace with custom logic or remove method for default implementation.
 
+		getCar().calculateMaximumTurning(1);
 		getCar().setBrakePercent(0);
 		getCar().setAccelerationPercent(100);
 		getCar().setTarget(AIUtils.getClosestLane(getCar().getCheckpoint(), getCar().getPosition()));

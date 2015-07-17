@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component jdk="jdk">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="java_websocket.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/java_websocket.jar!/"/>
+	</lib>
+	<lib name="commons-lang-2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-lang-2.6.jar!/"/>
+	</lib>
+	<lib name="jbox2d-library-2.1.2.2-modified-2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jbox2d-library-2.1.2.2-modified-2.jar!/"/>
+	</lib>
+	<lib name="CodeRally.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/CodeRally.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRally.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRally.jar!/"/>
+	</lib>
+	<lib name="CodeRallyStandalone.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/CodeRallyStandalone.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRallyStandalone.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRallyStandalone.jar!/"/>
+	</lib>
+	<lib name="jackson-databind-2.0.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-databind-2.0.6.jar!/"/>
+	</lib>
+	<lib name="CodeRallyShared.jar" scope="COMPILE">
+		<srcroot url="jar://$MODULE_DIR$/WebContent/WEB-INF/lib/CodeRallyShared.jar!/"/>
+		<relative-module-src project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRallyShared.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/CodeRallyShared.jar!/"/>
+	</lib>
+	<lib name="commons-math3-3.0.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-math3-3.0.jar!/"/>
+	</lib>
+	<lib name="jackson-datatype-json-org-2.0.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-datatype-json-org-2.0.2.jar!/"/>
+	</lib>
+	<lib name="jackson-core-2.0.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-core-2.0.6.jar!/"/>
+	</lib>
+	<lib name="jackson-annotations-2.0.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jackson-annotations-2.0.6.jar!/"/>
+	</lib>
+	<lib name="commons-io-2.4.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-io-2.4.jar!/"/>
+	</lib>
+</component>
